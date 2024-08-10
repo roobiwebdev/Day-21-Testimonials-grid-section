@@ -11,7 +11,7 @@ body {
   color: hsl(0, 0%, 100%);
   font-family: "Barlow Semi Condensed", sans-serif;
   margin: 3em auto;
-  height: auto;
+  height: 40vh;
   display: flex;
   justify-content: center;
   align-items: center;
