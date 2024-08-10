@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #c6d1dd;
+  background: #edf3f9;
   color: hsl(0, 0%, 100%);
   font-family: "Barlow Semi Condensed", sans-serif;
   margin: 3em auto;
@@ -45,6 +45,7 @@ body {
   background: #723fc9;
   color: #f7f0ff;
   padding: 25px;
+  box-shadow: 8px 10px 144px -41px #0000008c;
 }
 .card-1,
 .img {
@@ -139,6 +140,7 @@ span {
   width: 280px;
   background: #ffffff;
   color: #19202c;
+  box-shadow: 0px 61px 157px -41px #0000008c;
 }
 
 .card-3 .card-title {
@@ -162,6 +164,7 @@ span {
   width: 280px;
   background: #ffffff;
   color: #19202c;
+   box-shadow: 0px 61px 157px -41px #0000008c;
 }
 
 .card-4 .card-title {
